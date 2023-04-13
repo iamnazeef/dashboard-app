@@ -1,4 +1,4 @@
-# Noteu
+# Admindash
 Dashboard app built using React.js, SCSS, NPM, MUI and JavaScript.
 
 ## Contributing
