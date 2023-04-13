@@ -11,7 +11,7 @@ import PsychologyOutlinedIcon from '@mui/icons-material/PsychologyOutlined';
 import SettingsOutlinedIcon from '@mui/icons-material/SettingsOutlined';
 import AccountCircleOutlinedIcon from '@mui/icons-material/AccountCircleOutlined';
 import LogoutOutlinedIcon from '@mui/icons-material/LogoutOutlined';
-import {Link} from "react-router-dom";
+import { Link } from "react-router-dom";
 
 const Sidebar = () => {
     return ( 
