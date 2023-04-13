@@ -24,7 +24,7 @@ Dashboard app built using React.js, SCSS, NPM, MUI and JavaScript.
 - Commit your code
 - Submit a PR
 - When PR is merged or code is pushed to ```main```:
-  - Netlify deploys latest changes to [admindash.netlify.app](https://admindash.netlify.app)
+  - Netlify deploys latest changes to [cradmindash.netlify.app](https://cradmindash.netlify.app)
   
 ## Author
 Nazeef ([@iamnazeef](http://iamnazeef.netlify.app/))
